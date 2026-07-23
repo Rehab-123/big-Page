@@ -385,6 +385,7 @@ header{
                     color: #222222;
                     }
                     p{
+                        width: 152.72px;
                         font-family: Poppins;
                         font-weight: 400;
                         font-style: Regular;
@@ -1094,7 +1095,7 @@ footer{
                         display: flex;
                         gap: 100px;
                         .p{
-                            width: 80px;
+                            width: 80.77px;
                             height: 24px;
                             font-family: Poppins;
                             font-weight: 400;
@@ -1102,10 +1103,9 @@ footer{
                             font-size: 16px;
                             line-height: 24px;
                             color: #6B7280;
-                            white-space: nowrap;
                         }
                         .num{
-                            width: 97px;
+                            width: 97.09px;
                             height: 24px;
                             font-family: Poppins;
                             font-weight: 400;
